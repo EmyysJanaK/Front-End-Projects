@@ -1,7 +1,7 @@
 // Show preview
 function showImgPreview() {
   $('.preview-container').show();
-  $('#prev-img').attr('src', 'https://i.postimg.cc/rwm6FtY6/hset.png');
+  $('#prev-img').attr('src', 'https://idealz.lk/wp-content/uploads/2022/09/iPhone-14-Pro-Max-Purple-768x768.jpg');
 }
 
 // Hide Preview
